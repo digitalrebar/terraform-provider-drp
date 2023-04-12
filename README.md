@@ -1,3 +1,16 @@
+# DEPRECATED - MOVED
+
+This repo is closed and deprecated.
+
+The actual code repo is in [Gitlab](https://gitlab.com/rackn/terraform-provider-drp).
+
+The mirrored repo is in [Github](https://github.com/rackn/terraform-provider-drp).
+
+To convert to the official provider.
+
+- Change the digitalrebar/drp references to rackn/drp
+
+
 # Terraform Provider for Digital Rebar v4.4+
 
 - Hashicorp Website: https://www.terraform.io
