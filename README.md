@@ -6,7 +6,7 @@ The actual code repo is in [Gitlab](https://gitlab.com/rackn/terraform-provider-
 
 The mirrored repo is in [Github](https://github.com/rackn/terraform-provider-drp).
 
-To convert to the official provider.
+To convert to the [official provider](https://registry.terraform.io/providers/rackn/drp/latest).
 
 - Change the digitalrebar/drp references to rackn/drp
 
